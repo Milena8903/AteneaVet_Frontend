@@ -1,0 +1,15 @@
+.sloga{
+    align-items: flex-end;
+}
+
+
+@media(max-width:960px){
+    .sloga{
+        align-items: center;
+    }
+
+    .sloga h3{
+        text-align: center;
+        font-size: 24px;
+    }
+}
